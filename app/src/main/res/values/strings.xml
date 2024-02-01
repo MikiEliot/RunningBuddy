@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Running Buddy</string>
+    <string name="speed_format">Speed: %.2f km/h</string>
+    <string name="permission_denied">Permission denied. Please enable location access in settings.</string>
+    <string name="distance_format">Distance: %.2f km</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
+
+</resources>

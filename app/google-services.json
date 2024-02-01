@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656512925134",
+    "project_id": "running2-ae995",
+    "storage_bucket": "running2-ae995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656512925134:android:f1d00415c1565425eb3f9f",
+        "android_client_info": {
+          "package_name": "fr.cda.running2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUbK2vj6ltyZlxrhfAKTLlC2cigge5Jwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
